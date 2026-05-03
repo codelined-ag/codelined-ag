@@ -31,7 +31,6 @@ Open to collaborating on open-source tools that respect privacy and work offline
 <td valign="top">
   <h3><a href="https://github.com/codelined-ag/Extracto">Extracto</a></h3>
   <p><strong>Your private document brain.</strong> PDFs in, RAG out. Self-hosted. Plug everywhere.</p>
-  <p>One Docker container that ingests PDFs/images with any vision model (Ollama, Mistral OCR, OpenRouter, OpenAI-compat), post-processes to clean markdown or JSON, chunks and embeds into Chroma / Qdrant / Weaviate, and serves the result through a browser UI, a REST API, an MCP server (Claude / Cursor / Codex / OpenClaw / Hermes), and an OpenAI-Chat-Completions adapter.</p>
   <p>
     <a href="https://extracto.help"><strong>extracto.help</strong></a> · <a href="https://github.com/codelined-ag/Extracto"><strong>repo</strong></a> · <a href="https://github.com/codelined-ag/Extracto/pkgs/container/extracto"><strong>container</strong></a>
   </p>

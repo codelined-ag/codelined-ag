@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://extracto.help"><img src="https://img.shields.io/badge/extracto.help-c75a23?style=for-the-badge&logoColor=white" alt="extracto.help" /></a>
-  <a href="mailto:support@codelined.com"><img src="https://img.shields.io/badge/support%40codelined.com-1f1a14?style=for-the-badge&logoColor=white" alt="email" /></a>
+  <a href="mailto:supporto@codelined.com"><img src="https://img.shields.io/badge/supporto%40codelined.com-1f1a14?style=for-the-badge&logoColor=white" alt="email" /></a>
   <a href="https://github.com/codelined-ag"><img src="https://img.shields.io/badge/github-codelined--ag-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
 </p>
 
@@ -47,4 +47,4 @@ Open to collaborating on open-source tools that respect privacy and work offline
 
 ### Reach
 
-Drop a line at [support@codelined.com](mailto:support@codelined.com), or open an issue on the [Extracto repo](https://github.com/codelined-ag/Extracto/issues).
+Drop a line at [supporto@codelined.com](mailto:supporto@codelined.com), or open an issue on the [Extracto repo](https://github.com/codelined-ag/Extracto/issues).

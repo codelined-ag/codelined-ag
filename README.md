@@ -1,21 +1,33 @@
-# Hi 👋, I'm Codelined
-
-### Web Agency
-
-- 🔭 I'm currently working on **Extracto - Very simple UI and API for your OCR needs <3
-**
-
-- 👯 I'm looking to collaborate on **Open Source projects**
-
-- 📫 How to reach me **supporto@codelined.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/codelined-ag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="codelined-ag" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/codelined-ag/Extracto">
+    <img src="https://raw.githubusercontent.com/codelined-ag/Extracto/main/extracto-banner.png" alt="Extracto" width="80%">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rust" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+<p align="center">
+  <strong>We build self-hosted AI tools.</strong><br/>
+  No SaaS, no lock-in. One Docker container, your machine, your model, your data.
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codelined-ag&" alt="codelined-ag" /></p>
+---
 
+## Flagship: Extracto
+
+**Your private document brain.** PDFs in, RAG out. Self-hosted. Plug everywhere.
+
+Drop a document, get clean markdown. Chunk + embed + store into Chroma, Qdrant, or Weaviate. Query from Claude, Cursor, or Codex via MCP, from your code via the REST API, or from a browser via the UI. Any vision model: local Ollama, Mistral OCR, OpenRouter, any OpenAI-compatible endpoint.
+
+```bash
+docker run -d --name extracto -p 3000:3000 \
+  -v extracto-data:/app/data \
+  -e AUTH_SECRET="$(openssl rand -hex 32)" \
+  ghcr.io/codelined-ag/extracto:latest
+```
+
+[**Repo**](https://github.com/codelined-ag/Extracto) · [**Docs**](https://extracto.help) · [**API**](https://extracto.help/api/overview) · [**MCP**](https://extracto.help/agents/overview) · [**Container**](https://github.com/codelined-ag/Extracto/pkgs/container/extracto)
+
+---
+
+## Get in touch
+
+Issues, PRs, and discussions on [the Extracto repo](https://github.com/codelined-ag/Extracto/issues). For anything else: [support@codelined.com](mailto:support@codelined.com).

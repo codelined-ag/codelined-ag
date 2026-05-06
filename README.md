@@ -19,7 +19,7 @@ I build software that runs on your machine, not mine. The current focus is the d
 
 Open to collaborating on open-source tools that respect privacy and work offline.
 
-### Featured project
+### Featured projects
 
 <table>
 <tr>
@@ -33,6 +33,20 @@ Open to collaborating on open-source tools that respect privacy and work offline
   <p><strong>Your private document brain.</strong> PDFs in, RAG out. Self-hosted. Plug everywhere.</p>
   <p>
     <a href="https://extracto.help"><strong>extracto.help</strong></a> · <a href="https://github.com/codelined-ag/Extracto"><strong>repo</strong></a> · <a href="https://github.com/codelined-ag/Extracto/pkgs/container/extracto"><strong>container</strong></a>
+  </p>
+</td>
+</tr>
+<tr>
+<td width="220" valign="top">
+  <a href="https://github.com/codelined-ag/warmy">
+    <img src="https://raw.githubusercontent.com/codelined-ag/warmy/main/warmy.png" alt="Warmy" />
+  </a>
+</td>
+<td valign="top">
+  <h3><a href="https://github.com/codelined-ag/warmy">Warmy</a></h3>
+  <p><strong>Keep AI coding sessions warm.</strong> Pings Claude Code and Codex CLI 1 minute after the 5-hour rate limit resets.</p>
+  <p>
+    <a href="https://www.npmjs.com/package/@codelined/warmy"><strong>npm</strong></a> · <a href="https://github.com/codelined-ag/warmy"><strong>repo</strong></a>
   </p>
 </td>
 </tr>
